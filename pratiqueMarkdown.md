@@ -22,6 +22,12 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
+Pour compiler:
+`gcc hello.c`
+
+Pour exécuter:
+`chmod +x a.out`
+`./a.out`
 
 ## GIT
 
